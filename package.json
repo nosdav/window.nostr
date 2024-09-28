@@ -1,0 +1,23 @@
+{
+  "name": "window.nostr",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "window.nostr implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nosdav/window.nostr.git"
+  },
+  "keywords": [
+    "nostr"
+  ],
+  "author": "Melvin Carvalho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nosdav/window.nostr/issues"
+  },
+  "homepage": "https://github.com/nosdav/window.nostr#readme"
+}
